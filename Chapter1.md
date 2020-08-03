@@ -1,2 +1,2 @@
 # บทที่ 1 Introduction
-## ทำไมต้อง Data mining
+## ทำไมต้อง Data mining ถึงมีความสำคัญ
