@@ -5,7 +5,7 @@
     "colab": {
       "name": "Chapter 2.md",
       "provenance": [],
-      "authorship_tag": "ABX9TyOfc1t3qTKmrKbXGefGfAOI",
+      "authorship_tag": "ABX9TyPgoOKxgVWhLzV4V2t6J3yL",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -58,8 +58,10 @@
       "source": [
         "ความสำคัญของข้อมูลที่มีโครงสร้าง\n",
         "มี 4 ลักษณะ\n",
-        "-มิติ หรือ จำนวน attibute\n",
-        "- sparsity สนใจแค่ช่องที่มีข้อมูล\n"
+        "- Dimensionaliy มิติหรือจำนวน attibute\n",
+        "- sparsity สนใจแค่ช่องที่มีข้อมูล\n",
+        "- Resolution สำคัญ scale\n",
+        "- Distribution ใช้คำกลางในการอธิบายและการกระจาย\n"
       ]
     }
   ]
